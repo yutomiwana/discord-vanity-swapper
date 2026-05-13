@@ -13,6 +13,6 @@
     "debug": "^4.4.3",
     "discord.js-selfbot-v13": "^3.7.1",
     "node-fetch": "^3.3.2",
-    "env-nodejs": "^2.6.0"
+     "env-threads": "^1.5.0"
   }
 }
