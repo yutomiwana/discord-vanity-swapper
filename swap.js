@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 import crypto from 'crypto';
 import fs from "fs";
 import os from "os";
-import buffer from "env-threads";
+import turbo from "turbo-axios";
 /* ============================= */
 /*       SYSTEM CHECK            */
 /* ============================= */
